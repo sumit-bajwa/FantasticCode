@@ -7,12 +7,12 @@ Pod::Spec.new do |s|
 This Fantastic Code view changes its color gradually makes your app look fantastic!
                        DESC
  
-  s.homepage         = 'https://github.com/sumit-bajwa/FantasticView'
+  s.homepage         = 'https://github.com/sumit-bajwa/Fanty'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Sumit Bajwa' => 'sumitbajwa.229@gmail.com' }
-  s.source           = { :git => 'https://github.com/sumit-bajwa/FantasticView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/sumit-bajwa/Fanty.git', :tag => s.version.to_s }
  
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '12.0'
   s.source_files = 'FantasticView/FantasticView.swift'
   s.swift_version = '5.0'
  
